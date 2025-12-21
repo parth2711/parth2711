@@ -36,15 +36,7 @@
   />
 </div>
 
-<hr>
-
-<div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Technologist/3D/technologist_3d.png"
-    alt="Developer illustration"
-    width="220"
-  />
-</div>
+<hr>>
 
 <hr>
 
