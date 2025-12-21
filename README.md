@@ -2,6 +2,16 @@
 
 ###
 
+### 🚀 Currently Building ML Projects
+- Learning Machine Learning by building real projects, not just collecting certificates
+- Recently completed a KNN-based classification project and survived Streamlit deployment 😅
+- Applying Python for problem solving, ML workflows, and scripting
+- Strengthening Data Structures & Algorithms (DSA) fundamentals using C and C++
+- Using Git & GitHub to manage code, experiments, and project versions
+- Next up: SVM on a new problem domain
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parth2711&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parth2711&layout=compact&langs_count=6&theme=dracula" height="150"/>
@@ -9,7 +19,7 @@
 
 ###
 
-<!-- Developer / Coding GIF (safe & professional) -->
+<!-- Safe, professional developer GIF -->
 <img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ###
@@ -66,5 +76,12 @@
 
 <br clear="both">
 
-<!-- FIXED SNAKE ANIMATION -->
-<img src="https://raw.githubusercontent.com/parth2711/parth2711/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+### 👾 Pacman Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/parth2711/parth2711/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/parth2711/parth2711/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" 
+       src="https://raw.githubusercontent.com/parth2711/parth2711/output/pacman-contribution-graph.svg">
+</picture>
