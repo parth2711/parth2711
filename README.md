@@ -25,8 +25,13 @@
     src="https://github-readme-stats.vercel.app/api?username=parth2711&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" 
     height="165"
   />
+</div>
+
+<br>
+
+<div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=parth2711&layout=compact&langs_count=8&theme=dracula&card_width=380" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth2711&langs_count=8&theme=dracula&hide_border=false" 
     height="165"
   />
 </div>
@@ -35,9 +40,9 @@
 
 <div align="center">
   <img 
-    src="https://illustrations.popsy.co/gray/coding.svg" 
-    alt="Developer illustration" 
-    width="420"
+    src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Technologist/3D/technologist_3d.png"
+    alt="Developer illustration"
+    width="220"
   />
 </div>
 
