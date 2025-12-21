@@ -71,14 +71,38 @@
 </div>
 
 ---
+<img src="https://raw.githubusercontent.com/parth2711/parth2711/output/snake.svg" alt="Snake animation" />
 
-<h3>👾 Pacman Contribution Graph</h3>
+###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/parth2711/parth2711/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/parth2711/parth2711/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph"
-       src="https://raw.githubusercontent.com/parth2711/parth2711/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parth2711/parth2711/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parth2711/parth2711/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/parth2711/parth2711/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/parth2711/parth2711/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/parth2711/parth2711/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parth2711/parth2711/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parth2711/parth2711/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/parth2711/parth2711/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parth2711/parth2711/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parth2711/parth2711/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/parth2711/parth2711/output/pacman-contribution-graph.svg">
+</picture>
+
+###
