@@ -20,7 +20,6 @@
 
 <hr>
 
-<!-- GitHub Stats -->
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=parth2711&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" 
@@ -61,40 +60,27 @@
 
 <h3>🌐 Connect With Me</h3>
 
-<table>
-  <tr>
-    <td valign="middle">
+<div align="left">
+  <a href="https://www.youtube.com/@parthjangirr">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+  </a>
+  <a href="https://www.instagram.com/parthayyy/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/parth-jangir-a9993a323/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://discord.com/users/parthayyy">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord"/>
+  </a>
+  <a href="mailto:jangirparth@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
 
-<a href="https://www.youtube.com/@parthjangirr">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
-</a>
-<a href="https://www.instagram.com/parthayyy/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/parth-jangir-a9993a323/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://discord.com/users/parthayyy">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord"/>
-</a>
-<a href="mailto:jangirparth@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-    </td>
-
-    <td valign="middle" style="padding-left:28px;">
-
-<b>🧠 Focus</b><br>
-• Software Engineering<br>
-• Machine Learning<br>
-• DSA & Problem Solving<br><br>
-
-<b>⚙️ Currently</b><br>
-• Building ML projects<br>
-• Practicing C / C++ / Python<br>
-• Preparing for SDE roles
-
-    </td>
-  </tr>
-</table>
+  <img 
+    align="right"
+    src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif"
+    width="220"
+    alt="Developer coding gif"
+  />
+</div>
