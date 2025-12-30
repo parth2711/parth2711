@@ -20,9 +20,7 @@
 
 <hr>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=parth2711&show_icons=true&theme=dracula&format=png)
-
-
+![Metrics](https://metrics.lecoq.io/parth2711?template=classic&languages=1&isocalendar=1&followup=1&theme=dark)
 
 <hr>
 
