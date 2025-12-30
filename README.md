@@ -20,7 +20,10 @@
 
 <hr>
 
-![Metrics](https://metrics.lecoq.io/parth2711?template=classic&languages=1&isocalendar=1&followup=1&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=dracula&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourGitHubUsername&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="165"/>
+</div>
 
 <hr>
 
