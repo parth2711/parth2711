@@ -21,19 +21,8 @@
 <hr>
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=parth2711&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" 
-    height="165"
-  />
-</div>
-
-<br>
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth2711&langs_count=8&theme=dracula" 
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=parth2711&show_icons=true&theme=dracula&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parth2711&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="165"/>
 </div>
 
 <hr>
