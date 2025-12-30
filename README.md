@@ -19,14 +19,14 @@
 </ul>
 
 <hr>
+---
+
+![Parth's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=parth2711&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=parth2711&layout=compact&theme=dracula)
 
 ---
 
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth2711&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=parth2711&layout=compact&theme=dracula)
-
----
 
 
 <hr>
