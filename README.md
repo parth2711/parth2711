@@ -20,10 +20,14 @@
 
 <hr>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parth2711&show_icons=true&theme=dracula&format=png" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parth2711&layout=compact&langs_count=8&theme=dracula&format=png" />
-</div>
+---
+
+![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth2711&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=parth2711&layout=compact&theme=dracula)
+
+---
+
 
 <hr>
 
