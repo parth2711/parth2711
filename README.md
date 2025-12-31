@@ -1,11 +1,19 @@
-<p align="center">
-  <h1 align="center">Hey 👋, I'm <span>Parth Jangir</span></h1>
+<table align="center" bgcolor="#161b22" cellpadding="24">
+  <tr>
+    <td align="center">
 
-  <p align="center">
-    <b>Aspiring Software Engineer from India 🇮🇳</b><br>
-    <i>Focused on Software Engineering fundamentals, Machine Learning, and problem solving.</i>
-  </p>
-</p>
+✨✨✨
+
+<h1>Hey 👋, I'm Parth Jangir</h1>
+
+<b>Aspiring Software Engineer from India 🇮🇳</b><br><br>
+<i>Focused on Software Engineering fundamentals, Machine Learning, and problem solving.</i>
+
+✨✨✨
+
+    </td>
+  </tr>
+</table>
 
 <hr/>
 
