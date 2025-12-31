@@ -1,11 +1,6 @@
-<blockquote>
-  <h1 align="left">Hey 👋, I'm Parth Jangir</h1>
-
-  <p align="left">
-    <b>Aspiring Software Engineer from India 🇮🇳</b><br>
-    <i>Focused on Software Engineering fundamentals, Machine Learning, and problem solving.</i>
-  </p>
-</blockquote>
+| |
+|---|
+| <h1 align="left">Hey 👋, I'm Parth Jangir</h1><br><b>Aspiring Software Engineer from India 🇮🇳</b><br><i>Focused on Software Engineering fundamentals, Machine Learning, and problem solving.</i> |
 
 <hr>
 
