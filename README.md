@@ -9,7 +9,6 @@
 
 <hr/>
 
-<hr>
 
 <h3>🚀 What I’m Currently Building & Learning</h3>
 
