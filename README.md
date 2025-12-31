@@ -20,8 +20,8 @@
 
 <hr>
 
-| ![](https://github-readme-stats.vercel.app/api?username=parth2711&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parth2711&layout=compact&langs_count=8&theme=dracula&hide_border=true&cache_seconds=86400) |
-| :-: | :-: |
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parth2711&theme=dracula)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parth2711&theme=dracula)
 
 <hr>
 
