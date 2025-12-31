@@ -33,12 +33,12 @@ Machine Learning, and problem solving.
 <hr>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parth2711&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parth2711&theme=dracula" />
+  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parth2711&theme=dracula" />
+  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parth2711&theme=dracula" />
 </p>
 
 <!-- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parth2711&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parth2711&theme=dracula" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parth2711&theme=dracula" />
 </p> -->
 
