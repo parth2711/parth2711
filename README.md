@@ -20,8 +20,8 @@
 
 <hr>
 
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth2711&show_icons=true&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth2711&layout=compact&langs_count=8&theme=dracula&hide_border=true)
+| ![](https://github-readme-stats.vercel.app/api?username=parth2711&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parth2711&layout=compact&langs_count=8&theme=dracula&hide_border=true&cache_seconds=86400) |
+| :-: | :-: |
 
 <hr>
 
