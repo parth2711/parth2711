@@ -108,6 +108,12 @@ Machine Learning, and problem solving.
   <a href="mailto:jangirparth@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
+  <a href="https://codeforces.com/profile/parth2711">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces"/>
+  </a>
+  <a href="https://leetcode.com/u/parthayyy/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+  </a>
 
   <img 
     align="right"
