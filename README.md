@@ -19,7 +19,7 @@ Machine Learning, and problem solving.
 <hr/>
 
 
-<h3>🚀 What I’m Currently Building & Learning</h3>
+<h3>What I’m Currently Building & Learning</h3>
 
 <ul>
   <li>🧠 Learning <b>Full Stack Development and Machine Learning</b> by building real projects, not just collecting certificates</li>
