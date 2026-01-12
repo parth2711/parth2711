@@ -1,19 +1,19 @@
-<table align="center" bgcolor="#161b22" cellpadding="35">
+<!-- <table align="center" bgcolor="#161b22" cellpadding="35">
   <tr>
-    <td align="center">
+    <td align="center"> -->
 
-<h1>Hey 👋, I'm Parth Jangir</h1>
+<h1>Hey, I'm Parth Jangir</h1>
 
 <b>Aspiring Software Engineer from India 🇮🇳</b><br><br>
 
-<i>
+<!-- <i> -->
 Focused on Software Engineering fundamentals,  
 Machine Learning, and problem solving.
 </i>
 
-  </td>
-  </tr>
-</table>
+ <!-- </td> -->
+  <!-- </tr> -->
+<!-- </table> -->
 
 
 <hr/>
