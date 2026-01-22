@@ -2,7 +2,7 @@
   <tr>
     <td align="center"> -->
 
-<h1>Hey, I'm Parth Jangir</h1>
+<h1>Hey there, I'm Parth Jangir</h1>
 
 <b>Aspiring Software Engineer from India 🇮🇳</b><br><br>
 
