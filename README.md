@@ -27,7 +27,6 @@ Machine Learning, and problem solving.
   <li>💻 Strengthening <b>Data Structures & Algorithms</b> using <b>C++</b></li>
   <li>🐍 Using <b>Python</b> for problem solving, ML workflows, and scripting</li>
   <li>🔧 Applying <b>software engineering practices</b>: clean code, modular design, version control</li>
-  <li>➡️ Next up: <b>DevAct</b></li>
 </ul>
 
 <hr>
