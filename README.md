@@ -19,16 +19,6 @@ Machine Learning, and problem solving.
 <hr/>
 
 
-<h3>What I’m Currently Building & Learning</h3>
-
-<ul>
-  <li>🧠 Learning <b>Full Stack Development and Machine Learning</b> by building real projects, not just collecting certificates</li>
-  <li>📊 Built and deployed multiple<b> ML Models </b> using Python & Streamlit</li>
-  <li>💻 Strengthening <b>Data Structures & Algorithms</b> using <b>C++</b></li>
-  <li>🐍 Using <b>Python</b> for problem solving, ML workflows, and scripting</li>
-  <li>🔧 Applying <b>software engineering practices</b>: clean code, modular design, version control</li>
-</ul>
-
 <hr>
 
 <p align="center">
