@@ -1,114 +1,82 @@
-<!-- <table align="center" bgcolor="#161b22" cellpadding="35">
-  <tr>
-    <td align="center"> -->
+<div align="center">
 
-<h1>Hey there, I'm Parth Jangir</h1>
+<br>
 
-<b>Aspiring Software Engineer from India 🇮🇳</b><br><br>
+<h2>Parth Jangir</h2>
 
-<!-- <i> -->
-Focused on Software Engineering fundamentals,  
-Machine Learning, and problem solving.
-</i>
-
- <!-- </td> -->
-  <!-- </tr> -->
-<!-- </table> -->
-
-
-<hr/>
-
-
-<hr>
-
-<p align="center">
-  <img width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parth2711&theme=dracula" />
-  <img width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parth2711&theme=dracula" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parth2711&theme=dracula&hide_border=true" />
+<p>
+  Software Engineering &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Problem Solving
+  <br>
+  <sub>India</sub>
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parth2711&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parth2711&theme=dracula" />
-</p> -->
+<br>
 
-<hr>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-jangir-a9993a323/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/parth2711)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/parthayyy/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@parthjangirr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/parthayyy/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/parthayyy)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jangirparth@gmail.com)
 
-<h3>🛠 Tech Stack</h3>
-
-<div align="left">
-  <!-- Core Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="34"/>
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="34"/>
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34"/>
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34"/>
-  <img width="14"/>
-
-  <!-- Web / UI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34"/>
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34"/>
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34"/>
-  <img width="14"/>
-
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34"/>
-  <img width="14"/>
-
-  <!-- ML / Data Science -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="34"/>
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="34"/>
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="34"/>
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="34"/>
-  <img width="14"/>
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34"/>
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="34"/>
 </div>
 
-<hr>
+<br>
 
-<h3>🌐 Connect With Me</h3>
+---
 
-<div align="left">
-  <a href="https://www.youtube.com/@parthjangirr">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
-  </a>
-  <a href="https://www.instagram.com/parthayyy/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/parth-jangir-a9993a323/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://discord.com/users/parthayyy">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord"/>
-  </a>
-  <a href="mailto:jangirparth@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://codeforces.com/profile/parth2711">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
+### About
 
-  <a href="https://leetcode.com/u/parthayyy/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+I'm an aspiring software engineer from India, currently focused on building strong fundamentals across systems, machine learning, and competitive programming. I like working close to the metal and thinking carefully about how things work underneath.
 
-  <img 
-    align="right"
-    src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif"
-    width="220"
-    alt="Developer coding gif"
-  />
+---
+
+### Tech Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Web**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Data and ML**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+**Database and Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### Activity
+
+<div align="center">
+
+<img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parth2711&theme=dracula" />
+<img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parth2711&theme=dracula" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parth2711&theme=dracula&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Open to opportunities, collaborations, and good conversations.</sub>
 </div>
