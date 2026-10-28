@@ -114,7 +114,8 @@ I'm a Computer Science student from India. Most of my time goes into competitive
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parth2711&theme=dracula&hide_border=true" />
+<img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parth2711&theme=dracula&utcOffset=5.5" />
+<img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parth2711&theme=dracula" />
 
 </div>
 
